@@ -85,6 +85,4 @@ You don't have to ever use `eject`. The curated feature set is suitable for smal
 that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
 ### Teamates 
-Amar Hadzic 
-Adem Durakovic
-Nhu Tran
+Amar Hadzic, Adem Durakovic, Nhu Tran

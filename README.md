@@ -83,3 +83,8 @@ the commands except `eject` will still work, but they will point to the copied s
 
 You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand 
 that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+
+### Teamates 
+Amar Hadzic 
+Adem Durakovic
+Nhu Tran
